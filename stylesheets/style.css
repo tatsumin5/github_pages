@@ -1,9 +1,14 @@
 body{
     font-family: "游ゴシック";
+    text-align: center;
 }
 
 h3{
   color: #00B200;
+}
+
+img{
+  margin: 5px;
 }
 
 /*top area */
