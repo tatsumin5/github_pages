@@ -1,5 +1,5 @@
 body{
-    font-family: "游ゴシック";
+    font-family: "游ゴシック","メイリオ", sans-serif;
     text-align: center;
 }
 
@@ -9,6 +9,10 @@ h3{
 
 img{
   padding: 5px;
+}
+
+.works_item{
+  background-color: #f0f0f0;
 }
 
 /*top area */
@@ -58,7 +62,7 @@ img{
 
 }
 
-/*footer_menu*/
+/*footer area */
 .footer_menu {
   margin-top: 50px;
   background-color: #009999;
