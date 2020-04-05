@@ -1,3 +1,12 @@
+ul, li{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
 body{
     font-family: "游ゴシック","メイリオ", sans-serif;
     text-align: center;
