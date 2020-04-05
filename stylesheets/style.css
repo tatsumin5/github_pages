@@ -7,12 +7,14 @@ ul, li{
   vertical-align: baseline;
 }
 
+
 body{
-    font-family: "游ゴシック","メイリオ", sans-serif;
+    font-family: 'Open Sans Condensed',"游ゴシック","メイリオ", sans-serif;
     text-align: center;
 }
 
 h3{
+  font-family: 'Do Hyeon', sans-serif;
   color: #00B200;
 }
 
